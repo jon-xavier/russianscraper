@@ -12,7 +12,7 @@ Pillow==2.3.0
 PyYAML==3.10
 Routes==2.0
 SQLAlchemy==0.8.4
-Scrapy==1.0.2
+Scrapy==1.8.2
 SecretStorage==2.0.0
 Tempita==0.5.2
 Twisted==15.3.0
